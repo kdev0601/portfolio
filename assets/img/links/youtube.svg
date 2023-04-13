@@ -1,0 +1,18 @@
+<svg width="24px" height="24px" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+        <circle id="path-8" cx="22" cy="22" r="22"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="44" height="44" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+    </defs>
+    
+    <style>
+        path {
+        fill: #fff;
+        }
+        #Oval {
+        stroke:  #fff;
+        }
+    </style>
+</svg>
